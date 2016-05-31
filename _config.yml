@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#000000'
+    - '#080A00'
+    - '#111200'
+    - '#2C2400'
+    - '#211A00'
+  brandStrength: 0.91749
+  lightness: 0.689644
+  rhythmicContrast: 0.505757
+  saturation: 0.760968
+cta: {}
+layout_spectrum: 0.796875
+name: hairball8
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.611842
